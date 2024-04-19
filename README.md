@@ -3,13 +3,38 @@
 
 <body>
 
-<h1>JSK</h1>
 
 <picture>
-<img src="images/курманбаевы.png" alt="Just img">
+
+<img src="images/jsk-fs.png" alt="Just img"  >
+
 </picture>
 
-<li><a href = "codes/kur.html">Смотреть</a></li>
+
+
+<br>
+
+
+
+<picture>
+
+<a href = "films.html">
+
+<img src="images/films.png" alt="Just img"  >
+
+</picture>
+
+<br>
+
+
+<picture>
+
+<a href = "serialy.html">
+
+<img src="images/serialy.png" alt="Just img"  >
+
+</picture>
+
 
 
 </body>
